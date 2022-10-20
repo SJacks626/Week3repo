@@ -1,6 +1,6 @@
  // WEEK 3 MEGA ASSIGNMENT DUE SATURDAY 10/29
 
-// making a change  test
+// making
 //TASK 1    (DONE)
 
 //All questions must be printed to your Browser’s console:
@@ -66,6 +66,10 @@ let average= (sumWithInitial/ ages.length)
 // ‘Tommy’, ‘Tim’, ‘Sally’, ‘Buck’, ‘Bob’
 
 let names= ['Sam', 'Tommy', 'Tim', 'Sally', 'Buck', 'Bob'];
+let averge = names.map(function(elements) {
+  return elements.length;
+});
+console.log(names);
 
 
 // / Use a loop to iterate through the array and calculate the average 
