@@ -1,5 +1,7 @@
  // WEEK 3 MEGA ASSIGNMENT DUE SATURDAY 10/29
 
+ //test test test
+
 // making
 //TASK 1    (DONE)
 
@@ -219,6 +221,7 @@ const willBuyDrink = (isHotOutside, moneyInPocket) =>{
   console.log(willBuyDrink(true, 11));   //true
 
   console.log(willBuyDrink(false, 10.50)); //false
+
 
 
 // 13- Create a function of your own that solves a problem. 
